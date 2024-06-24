@@ -1,7 +1,15 @@
 # 💫 About Me:
-Java Spring Boot<br>Currently Studying Bachelors
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate developer from [Your Country]</h3>
 
-
+<p align="center">
+  <a href="https://github.com/[your-github-username]" target="blank">
+    <img src="https://img.shields.io/github/followers/[your-github-username]?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/[your-twitter-handle]" target="blank">
+    <img src="https://img.shields.io/twitter/follow/[your-twitter-handle]?label=Follow&style=social" alt="Twitter Followers" />
+  </a>
+</p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wXDCZaH6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwor-kr-reule) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Bibash-Reule) 
 <a href="https://linkedin.com/in/[your-linkedin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin]" height="30" width="40" /></a>
