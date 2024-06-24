@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm ISHWOR REULE</h1>
+<h3 align="center">A passionate developer from NEPAL</h3>
 
 
 ## 🌐 Socials:
