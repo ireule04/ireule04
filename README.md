@@ -69,7 +69,7 @@ As a passionate developer, I am continuously working on enhancing my skills and 
 
 ## 📚 Learning Goals:
 - **Advanced JavaScript**: Delving deeper into modern JavaScript features and frameworks such as React and Angular.
-- **Cloud Computing**: Gaining expertise in cloud platforms like AWS and Azure to build and deploy scalable applications.
+- **Cloud Computing**: Gaining expertise in cloud platforms like AWS and Azure to build and deploy scalable applications..
 - **DevOps Practices**: Exploring DevOps tools and practices to streamline development workflows and enhance continuous integration/continuous deployment (CI/CD) pipelines.
 
 ## 🌍 Community Engagement:
