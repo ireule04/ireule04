@@ -64,7 +64,7 @@ As a passionate developer, I am continuously working on enhancing my skills and 
 ## 🚀 Skills and Technologies:
 - **Frontend Development**: Mastering the latest trends and best practices in HTML5, CSS, JavaScript, and frameworks like Bootstrap and SASS to create responsive and visually appealing user interfaces.
 - **Backend Development**: Strengthening my proficiency in Java and Spring Boot for robust and scalable backend solutions.
-- **Database Management**: Improving my skills in MySQL for efficient data storage, retrieval, and management.
+- **Database Management**: Improving my skills in MySQL for efficient data storage, retrieval, and management...
 - **Version Control**: Utilizing Git and GitHub for effective version control and collaboration on projects...
 
 ## 📚 Learning Goals:
