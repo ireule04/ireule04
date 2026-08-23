@@ -1,69 +1,44 @@
-<div align="center">
-
-# Namaste! 🙏 I'm Ishwor Reule <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" alt="Nepal Flag" width="25"/>
+<h1 align="center">
+  Hi there, I'm Ishwor! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="35" alt="Waving Hand">
+</h1>
 
 <!-- Animated Flashy Typing Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%2B+Spring+Boot+Developer;Tech+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/ireule04">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Software+Engineer;Java+%2B+Spring+Boot+Developer;Tech+Enthusiast;Always+Building+%26+Learning" alt="Typing SVG" />
+  </a>
+</p>
 
-*Welcome to my digital workspace!* 🚀
+<hr>
 
-</div>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ireule04">
+    <img src="https://github-profile-trophy.vercel.app/?username=ireule04&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
----
+<h3 align="center">💻 Tech Arsenal</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,bootstrap,sass,git,github&perline=10" alt="Tech Stack Icons" />
+  </a>
+</p>
 
-### 💫 About Me
+<h3 align="center">📊 Real-Time GitHub Stats</h3>
+<p align="center">
+  <!-- Removed heavy parameters to prevent Vercel 504 Timeouts -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ireule04&theme=dracula&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <!-- Switched to highly reliable Demolab server -->
+  <img src="https://streak-stats.demolab.com?user=ireule04&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-*   🔭 **Currently building:** Interactive web applications and exploring user interfaces for robotics.
-*   🌱 **Currently learning & exploring:** Expanding my frontend skills with React, Three.js, and p5.js.
-*   🎯 **Goals:** Pursuing a Master's in Computer Science and engineering impactful software.
-*   ⚡ **Outside the terminal:** Powered by a 100% plant-based diet, crushing the *Esoteric Vida's 6-day workout split* at the gym, analyzing T20 cricket matches, or getting my mind blown by Christopher Nolan films.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireule04&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
----
-
-### 💻 Tech Stack
-
-<div align="center">
-  
-**Frontend**<br>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-<br>
-
-**Backend & Database**<br>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-<br>
-
-**Tools & Version Control**<br>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ireule04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ireule04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireule04&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
----
-
-### 🌐 Let's Connect!
-
-<div align="center">
+<h3 align="center">🌐 Let's Connect</h3>
+<p align="center">
   <a href="https://linkedin.com/in/ishwor-kr-reule" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -76,12 +51,9 @@
   <a href="https://codepen.io/Bibash-Reule" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
   </a>
-</div>
+</p>
 
-<br>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ireule04&icon=0&color=0" alt="Profile Views"/>
-  </a>
-</div>
+<p align="center">
+  <!-- Switched to Komarev, the most stable visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=ireule04&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
+</p>
