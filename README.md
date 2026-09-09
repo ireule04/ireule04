@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi there, I'm Ishwor! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="35" alt="Waving Hand">
 </h1>
 
@@ -50,4 +50,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Nepal-%23DC143C.svg?style=for-the-badge&logo=nepal&logoColor=white" alt="Nepal" />
   🇳🇵
-</p>
+</p> -->
