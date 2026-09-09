@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=ireule04&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" />
 </p> -->
 
-<h3 align="center">🌐 Let's Connect</h3>
+<!-- <h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ishwor-kr-reule" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -50,4 +50,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Nepal-%23DC143C.svg?style=for-the-badge&logo=nepal&logoColor=white" alt="Nepal" />
   🇳🇵
-</p> -->
+</p> --> -->
