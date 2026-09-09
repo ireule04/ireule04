@@ -20,8 +20,8 @@
 <h3 align="center">📊 Real-Time GitHub Stats</h3>
 <p align="center">
   <!-- <img src="https://github-readme-stats.demolab.com/api?username=ireule04&theme=dracula&hide_border=true&show_icons=true" alt="GitHub Stats" /> -->
-  <img src="https://streak-stats.demolab.com?user=ireule04&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<!-- <img src="https://streak-stats.demolab.com?user=ireule04&theme=dracula&hide_border=true" alt="GitHub Streak Stats" /> -->
+<!-- </p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=ireule04&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" />
